@@ -1,3 +1,6 @@
+# IMPORTANT
+Moved to https://gitlab.com/Maxb0tbeep/learning-cpp
+
 # learning-cpp
 
 just trying to learn C++
